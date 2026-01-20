@@ -34,7 +34,6 @@ WEB PROGRAMMING/
 │
 │── images/
 │   ├── bg.jpg.jpg
-│   └── image.png
 │   └── photo.png
 │   └── profile.jpg.jpeg
 │
